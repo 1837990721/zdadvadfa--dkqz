@@ -4,7 +4,7 @@
 - https://github.com/Sunert/Scripts
 - 中青看点极速版本
 - Task/..
-,
+
 ~~~
 2. 获取Cookie方法，可随时更新
  ① 进入app，进入任务中心或者签到一次,即可获取Cookie. 
@@ -41,3 +41,4 @@ https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body htt
 
 
 ~~~
+
